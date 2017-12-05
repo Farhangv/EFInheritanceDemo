@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPC.Models.Payment">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAACAQAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPC.Models.OnlinePayment">
+    <Position X="4.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAA=</HashCode>
+      <FileName>Models\OnlinePayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPC.Models.POSPayment">
+    <Position X="1.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\POSPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPC.Models.CardTransferPayment">
+    <Position X="7.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\CardTransferPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

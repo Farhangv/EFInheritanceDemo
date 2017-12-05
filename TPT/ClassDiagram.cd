@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPT.Models.Payment">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAACAAAAAABAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPT.Models.POSPayment">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\POSPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPT.Models.OnlinePayment">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAA=</HashCode>
+      <FileName>Models\OnlinePayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPT.Models.CardTransferPayment">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\CardTransferPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPT.Models.Customer">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
